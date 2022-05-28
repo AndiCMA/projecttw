@@ -1,0 +1,17 @@
+.height-100vh{
+    height: 100vh!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+#FormLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    background-color: #d3d3d3;
+    padding: 100px;
+    border-radius: 10px;
+}

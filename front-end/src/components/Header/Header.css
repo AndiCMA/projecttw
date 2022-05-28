@@ -1,0 +1,11 @@
+.headerContainer{
+    display: flex;
+    flex-wrap: wrap!important;
+    align-items: center!important;
+    justify-content: space-between!important;
+    flex-direction: row!important;
+    align-content: center!important;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
